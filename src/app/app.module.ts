@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {MatSliderModule} from '@angular/material';
 import { AppComponent } from './app.component';
+import { FrutaComponent } from './fruta/fruta.component';
 
 @NgModule({
   declarations: [
